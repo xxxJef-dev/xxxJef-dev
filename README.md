@@ -11,11 +11,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxxJef-dev&theme=dracula&column=7" alt="xxxJef-dev" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [technological institute of the philippines](https://tip.edu.ph/)
+- 📚 I am currently studying at [Technological Institute of the Philippines](https://tip.edu.ph/)
 
 - 🌱 I am currently in the race **Web Design and Development**
 
-- 📫 How to reach me **Discord: Asta.Sol#0744**
+- 📫 How to reach me **Discord: xJef**
 
 <!-- CONTACTO -->
 <!-- <h3 align="left">Connect with me:</h3>
