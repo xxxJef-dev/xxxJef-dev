@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxxJef-dev&label=Profile%20views&color=0e75b6&style=flat" alt="xxxJef-dev" /> </p>
 
 <!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxxJef-dev&theme=dracula&column=7" alt="xxxJef-dev" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [technological institute of the philippines](https://tip.edu.ph/)
